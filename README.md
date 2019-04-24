@@ -1,2 +1,2 @@
 # js
-hicy is learning js
+hicy is learning js fighting
