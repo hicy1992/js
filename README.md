@@ -1,2 +1,6 @@
 # js
-hicy is learning js fighting
+<<<<<<< HEAD
+hicy is learning js gogogo
+=======
+hicy is learning js gogogo
+>>>>>>> fea
